@@ -14,10 +14,10 @@ My goal is to use AI tools to our advantage, freeing up business owners from rep
 
 ### ⚡ Top Skills
 
-- **Halcon Vision Programming**
 - Industrial Automation & Controls
 - Process Optimization
 - Problem Solving & Continuous Learning
+- Halcon Vision Programming
 
 ---
 
