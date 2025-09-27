@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Obayala2!
+# 👋 Hi, I'm Omar Ayala Bernal!
 
 ## 🚦 Automation Controls Engineer | Aspiring AI Consultant
 
