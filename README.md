@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Obayala2!
 
-<!--
-**omar-ayala-bernal/omar-ayala-bernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚦 Automation Controls Engineer | Aspiring AI Consultant
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I specialize in automation controls engineering, with a deep expertise in Halcon vision programming. My curiosity and evolving passion lie in helping small and medium-sized businesses harness the power of AI—making integration seamless, practical, and truly beneficial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Mission
+
+My goal is to use AI tools to our advantage, freeing up business owners from repetitive or time-consuming responsibilities. I believe in empowering people to spend more time with their families and on activities they love—while their businesses thrive with smart automation.
+
+---
+
+### ⚡ Top Skills
+
+- **Halcon Vision Programming**
+- Industrial Automation & Controls
+- Process Optimization
+- Problem Solving & Continuous Learning
+
+---
+
+### 🤖 AI & The Future
+
+I’m on a journey to learn what it takes to integrate AI into businesses effortlessly. I’m especially interested in practical AI solutions that deliver real value—without creating complexity.
+
+---
+
+### 🚀 What’s Next?
+
+- Building knowledge in AI consulting
+- Exploring ways to make AI accessible for SMBs
+- Planning to launch a personal website and business LinkedIn
+
+---
+
+### 💬 Let’s Connect!
+
+While I don’t have socials yet, I’m working on building my online presence. Stay tuned for updates!
+
+---
+
+> “Empowering businesses with automation and AI—so you can focus on what truly matters.”
