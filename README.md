@@ -1,44 +1,39 @@
-# 👋 Hi, I'm Omar Ayala Bernal!
+# Marketing OS (Local-First MVP)
 
-## 🚦 Automation Controls Engineer | Aspiring AI Consultant
+A Next.js + TypeScript MVP for an AI-powered social marketing command center tailored to freelance graphic designers.
 
-Welcome to my GitHub! I specialize in automation controls engineering, with a deep expertise in Halcon vision programming. My curiosity and evolving passion lie in helping small and medium-sized businesses harness the power of AI—making integration seamless, practical, and truly beneficial.
+## Implemented MVP Scope
+- Dashboard with mode/autonomy/risk snapshot
+- Monthly planner list view seeded with sample posts
+- Approval center with pending review queue
+- Local-first JSON persistence in `/data`
+- Audit log feed
+- Multi-page shell for all required sections
 
----
+## Tech
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- Local JSON persistence (upgrade path to Prisma + SQLite)
 
-### 🌟 Mission
+## Setup
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Seed demo data:
+   ```bash
+   npm run seed
+   ```
+3. Start dev server:
+   ```bash
+   npm run dev
+   ```
 
-My goal is to use AI tools to our advantage, freeing up business owners from repetitive or time-consuming responsibilities. I believe in empowering people to spend more time with their families and on activities they love—while their businesses thrive with smart automation.
+## Data layout
+`/data/{brand,campaigns,calendar,drafts,scheduled,posted,exports,assets,logs,templates,versions}`
 
----
-
-### ⚡ Top Skills
-
-- Industrial Automation & Controls
-- Process Optimization
-- Problem Solving & Continuous Learning
-- Halcon Vision Programming
-
----
-
-### 🤖 AI & The Future
-
-I’m on a journey to learn what it takes to integrate AI into businesses effortlessly. I’m especially interested in practical AI solutions that deliver real value—without creating complexity.
-
----
-
-### 🚀 What’s Next?
-
-- Building knowledge in AI consulting
-- Exploring ways to make AI accessible for SMBs
-- Planning to launch a personal website and business LinkedIn
-
----
-
-### 💬 Let’s Connect!
-
-While I don’t have socials yet, I’m working on building my online presence. Stay tuned for updates!
-
----
-
-> “Empowering businesses with automation and AI—so you can focus on what truly matters.”
+## Safety notes
+- No automatic posting implemented in MVP.
+- Approval policy and emergency pause are always visible in approval/dashboard experiences.
+- Seed process never overwrites existing data files.

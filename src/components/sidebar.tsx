@@ -1,0 +1,3 @@
+import Link from 'next/link';
+const links = [['Dashboard','/dashboard'],['Monthly Planner','/planner'],['Content Queue','/queue'],['Approval Center','/approval'],['Campaign Manager','/campaigns'],['Brand Profile','/brand'],['Settings','/settings'],['Audit Logs','/audit'],['Templates','/templates'],['Platform Settings','/platform-settings']];
+export function Sidebar(){return <aside className='w-64 border-r border-slate-800 p-4'><h1 className='font-bold mb-4'>Marketing OS</h1><nav className='space-y-2'>{links.map(([l,h])=><Link className='block rounded px-3 py-2 hover:bg-slate-900' key={h} href={h}>{l}</Link>)}</nav></aside>}

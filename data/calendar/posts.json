@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "date": "2026-05-10",
+    "platform": "instagram",
+    "status": "Awaiting Approval",
+    "title": "Logo redesign before/after",
+    "caption": "Swipe through transformation.",
+    "cta": "Book a brand refresh call.",
+    "hashtags": [
+      "#graphicdesign",
+      "#branding"
+    ],
+    "approvalDeadline": "2026-05-09T18:00:00Z"
+  },
+  {
+    "id": "p2",
+    "date": "2026-05-11",
+    "platform": "tiktok",
+    "status": "Draft",
+    "title": "3-second hook: Bad kerning fixes",
+    "caption": "Fix typography fast.",
+    "cta": "Follow for daily design tips.",
+    "hashtags": [
+      "#designtips",
+      "#tiktokdesign"
+    ]
+  },
+  {
+    "id": "p3",
+    "date": "2026-05-12",
+    "platform": "facebook",
+    "status": "Scheduled",
+    "title": "Client testimonial spotlight",
+    "caption": "How we increased recognition with visual consistency.",
+    "cta": "Message me for a free consult.",
+    "hashtags": [
+      "#smallbusiness",
+      "#design"
+    ]
+  }
+]

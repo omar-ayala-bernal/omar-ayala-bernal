@@ -1,0 +1,6 @@
+{
+  "autonomyLevel": 1,
+  "activeMode": "Showcase Portfolio",
+  "emergencyPause": false,
+  "approvalPolicy": "Manual Approval Required"
+}

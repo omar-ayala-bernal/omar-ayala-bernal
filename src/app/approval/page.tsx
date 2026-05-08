@@ -1,0 +1,3 @@
+import { getPosts, getSettings } from '@/lib/data';
+export default function Approval(){const settings=getSettings(); const items=getPosts().filter(p=>p.status==='Awaiting Approval'||p.status==='Needs Revision');
+return <div className='space-y-4'><h1 className='text-2xl font-semibold'>Approval Center</h1><p>Policy: {settings.approvalPolicy} | Emergency Pause: {settings.emergencyPause?'ON':'OFF'}</p>{items.map(i=><div key={i.id} className='border border-slate-800 rounded p-3'><p className='font-medium'>{i.title}</p><p className='text-sm'>{i.caption}</p><p className='text-xs text-slate-400'>Deadline: {i.approvalDeadline ?? 'N/A'}</p></div>)}</div>}

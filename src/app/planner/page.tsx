@@ -1,0 +1,2 @@
+import { getPosts } from '@/lib/data';
+export default function Planner(){const posts=getPosts(); return <div><h1 className='text-2xl font-semibold mb-4'>Monthly Planner</h1><div className='grid md:grid-cols-3 gap-3'>{posts.map(p=><div key={p.id} className='border border-slate-800 rounded p-3'><p className='text-xs text-slate-400'>{p.date} • {p.platform}</p><p className='font-medium'>{p.title}</p><p className='text-sm'>{p.status}</p></div>)}</div></div>}
